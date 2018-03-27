@@ -18,12 +18,6 @@ namespace For
             {
                 Console.WriteLine(i + "月");
             }
-
-            // 実行結果確認のための処理 ここから
-            Console.WriteLine();
-            Console.WriteLine("何かキーを押してください");
-            Console.ReadKey();
-            // ここまで
         }   
     }   
 }
@@ -43,8 +37,6 @@ namespace For
 10月
 11月
 12月
-
-何かキーを押してください
 ```
   
 ## 開発環境
